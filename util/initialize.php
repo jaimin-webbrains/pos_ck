@@ -36,6 +36,7 @@
     require_once __DIR__."/../modal/ServiceCategory.php";
     require_once __DIR__."/../modal/PackageCategory.php";
     require_once __DIR__."/../modal/Service.php";
+    require_once __DIR__."/../modal/Position.php";
     require_once __DIR__."/../modal/Package.php";
     require_once __DIR__."/../modal/Product.php";
     require_once __DIR__."/../modal/CustomerStatus.php";

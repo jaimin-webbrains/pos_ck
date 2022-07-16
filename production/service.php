@@ -4,6 +4,9 @@ include 'common/upper_content.php';
 
 if (!(isset($_POST["id"]) && $role = Service::find_by_id($_POST["id"]))) {
   $role = new Service();
+  // echo '<pre>';
+  // print_r($role);
+  // die;
 }
 ?>
 
