@@ -1,0 +1,433 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+body {
+    font-family: 'Lato', sans-serif;
+    color: #000000;
+}
+
+
+/* .login {
+    background: url(../images/login-bg.jpg) no-repeat center top / cover;
+    height: 100vh;
+}
+
+.login_content {
+    text-shadow: none;
+}
+
+.login_content h1 {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 36px;
+    letter-spacing: 1px;
+    margin: 10px 0 80px;
+}
+
+.login_content .btm-copy-area h1 {
+    font-size: 26px;
+    letter-spacing: 1px;
+    margin: 0px 0 15px;
+}
+
+.login_content h1:after,
+.login_content h1:before {
+    display: none;
+}
+
+.login-box {
+    background-color: rgba(204, 204, 204, .3);
+    padding: 25px 25px 10px;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+    margin-bottom: 40px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+}
+
+.login-users-icon {
+    margin-top: -75px;
+    margin-bottom: 20px;
+}
+
+.login-box .input-group {
+    margin-bottom: 15px;
+}
+
+.login_content form input.form-control {
+    margin-bottom: 0 !important;
+    height: 45px;
+    background-color: #cccccc;
+    box-shadow: none !important;
+}
+
+.login-box .input-group-addon {
+    background-color: #e8e8e8;
+}
+
+.btn-red {
+    background-color: #dc272e;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 11px 15px;
+}
+
+.btn-red:hover,
+.btn-red:focus {
+    background-color: #cd0911;
+    color: #fff;
+}
+
+.pass-remember {
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+button,
+input,
+select {
+    box-shadow: none;
+}
+
+.login-box input[type=checkbox],
+.login-box input[type=radio] {
+    margin: 0;
+    vertical-align: text-bottom;
+}
+
+.login-box input[type=checkbox],
+.login-box input[type=radio] {
+    margin-right: 5px;
+}
+
+.login-box label {
+    font-weight: normal;
+}
+
+.login-box form div a {
+    font-size: 14px;
+    margin: 0;
+} */
+
+.running-page {
+    background: url(../images/running-bg.jpg) no-repeat center bottom / cover;
+    background-color: #dc272d;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.right-video {
+    display: table;
+    margin-left: auto;
+    margin-bottom: 25px;
+}
+
+.boxes-title {
+    font-size: 24px;
+    font-weight: 800;
+    text-shadow: 1px 2px 2px #333;
+    margin: 0 0 20px;
+    padding-left: 10px;
+}
+
+.three-boxes {
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 5px 6px 0px rgb(0 0 0 / 30%);
+}
+
+.cust-number {
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.cust-name {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.cust-type {
+    font-size: 18px;
+    color: #dc272e;
+}
+
+table.header-table {
+    margin: 0;
+    border: 0;
+}
+
+table.header-table tr td {
+    border: 0 !important;
+    vertical-align: middle !important;
+}
+
+.date {
+    font-size: 12px;
+    color: #ccc;
+    margin-bottom: 0;
+    text-transform: inherit;
+}
+
+.time {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+#info-bar>.col-sm-4 {
+    text-align: right;
+    padding-top: 15px;
+}
+
+#info-bar .btn-info {
+    background-color: #1b82c2;
+    border-color: #1b82c2;
+    margin-left: 5px;
+}
+
+.testcashier-page {
+    background-color: #fbd3d3
+}
+
+.testcashier-page .container-fluid {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.testcashier-page .top-header {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pt-70 {
+    padding-top: 70px;
+}
+
+.service-title {
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0 0 25px;
+}
+
+.services-single {
+    position: relative;
+    background-color: #dc272e;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    min-height: 285px;
+    margin-bottom: 30px;
+}
+
+.services-single:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 99%;
+    height: 99%;
+    background: url(../images/red-shadow.png) no-repeat 0 0 / cover;
+    border-radius: 20px;
+}
+
+.services-single a {
+    position: relative;
+    z-index: 1;
+    display: block;
+    text-decoration: none;
+}
+
+.services-single h4 {
+    font-size: 24px;
+    font-weight: 600;
+    text-shadow: 1px 2px 2px #333;
+    margin: 0;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.services-single img {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.d-block {
+    display: block;
+}
+
+.daily-summary-box {
+    background-color: #103c49;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.btn-summary-report {
+    font-size: 28px;
+    font-weight: 600;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    white-space: normal;
+}
+
+.btn-primary {
+    background-color: #1a7eba;
+}
+
+.pending-box {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.pending-box h3 {
+    font-size: 28px;
+    font-weight: 800;
+    margin: 0 0 20px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.btn-success {
+    background-color: #00a652;
+    border-color: #00a652;
+}
+
+.btn-running-queue {
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 20px;
+    white-space: normal;
+}
+
+.customer-name-status {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.table-striped>tbody>tr:nth-of-type(2n+1) {
+    background-color: #fff;
+}
+
+.table-striped>tbody>tr:nth-of-type(2n+2) {
+    background-color: #e9edf0;
+}
+
+table.daily-report-table {
+    border: 2px solid #f3f4f9;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    border-color: #f3f4f9;
+}
+
+.table.daily-report-table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #f3f4f9;
+    font-weight: normal;
+    text-align: center;
+    font-size: 18px;
+}
+
+.table.daily-report-table>thead>tr>th,
+.table.daily-report-table>tbody>tr>td {
+    padding: 10px 8px;
+}
+
+.table.daily-report-table>tbody>tr>td {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+.btn-danger {
+    background-color: #e25865;
+    border-color: #e25865;
+}
+
+.daily-report-table .btn-danger,
+.daily-report-table .btn-primary {
+    font-size: 16px;
+    min-width: 90px;
+    font-weight: 600;
+    padding: 3px 5px;
+}
+
+.btn-invoice {
+    background-color: #e9edf0;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 5px 30px;
+    display: inline-block;
+    color: #000;
+    margin-bottom: 20px;
+    white-space: normal;
+}
+
+
+/* Media CSS */
+
+@media (max-width:991px) {
+    .left-three-boxes {
+        margin-bottom: 40px;
+    }
+    .testcashier-page .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #info-bar {
+        padding: 5px 15px 5px !important;
+    }
+    .pending-box {
+        margin-bottom: 30px;
+    }
+    .services-single {
+        padding: 20px;
+    }
+}
+
+@media (max-width:767px) {
+    .login_content h1 {
+        font-size: 26px;
+    }
+    .three-boxes {
+        margin-bottom: 30px;
+    }
+    #info-bar {
+        text-align: center;
+    }
+    table.header-table td {
+        display: grid;
+        text-align: center;
+    }
+    #info-bar>.col-sm-4 {
+        text-align: center !important;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .btn-summary-report {
+        font-size: 20px;
+    }
+    .daily-summary-box,
+    .pending-box {
+        padding: 20px;
+    }
+}

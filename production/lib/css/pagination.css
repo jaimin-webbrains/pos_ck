@@ -1,0 +1,49 @@
+/*            div.scrollmenu {
+                            background-color: #333;
+                            overflow: auto;
+                            white-space: nowrap;
+                        }
+            
+                        div.scrollmenu a {
+                            display: inline-block;
+                            color: white;
+                            text-align: center;
+                            padding: 14px;
+                            text-decoration: none;
+                        }
+            
+                        div.scrollmenu a:hover {
+                            background-color: #777;
+                        }*/
+
+.pagination_outer {
+    width: 100%;
+    background-color: #ecf2f8;
+    overflow: auto;
+    border-radius: 5px;
+}
+
+.pagination {
+    /*background-color: #8cb3d9;*/
+    overflow: auto;
+    white-space: normal;
+    float: left;
+    margin: 3px 3px;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    /*border-radius: 100%;*/
+}
+
+.pagination a.active {
+    /*background-color: #0099cc;*/
+    background-color:  #4580ba;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #cccccc;}

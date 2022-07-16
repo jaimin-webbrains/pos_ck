@@ -1,0 +1,139 @@
+.divBack{
+    /*margin-top: 20px;*/
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #f2f2f2;
+    /*border-style: hidden;*/
+    /*border: 1px solid #E6E9ED;*/
+    /*border: 1px solid #cccccc;*/
+    /*border-radius: 0 0 10px 10px;*/
+    border-radius: 5px;
+    /*box-shadow: 3px 3px 4px grey;*/
+}
+
+.divBackTopTable{
+    /*margin-top: 20px;*/
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #d9d9d9;
+    /*border-style: hidden;*/
+    /*border: 1px solid #E6E9ED;*/
+    border: 1px solid #cccccc;
+    /*border-radius: 10px 10px 0 0;*/
+    border-radius: 5px;
+}
+
+.divBackTopTransparent{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+.borderrad{
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+.roundCorners{
+    border-radius: 5px;
+}
+
+.shadowLight{
+    box-shadow: 1px 1px 3px #a6a6a6;
+}
+
+.shadowDarck{
+    box-shadow: 1px 1px 3px gray;
+}
+
+.customBorder{
+    border: 2px solid #b3b3b3;
+}
+
+button , input, select{
+    box-shadow: 1px 1px 3px #a6a6a6;
+}
+
+.divBackWhite{
+    /*margin-top: 20px;*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #fff;
+    /*border-style: hidden;*/
+    border: 1px solid #cccccc;
+    border-radius: 0 0 10px 10px;
+    /*border-radius: 5px;*/
+    /*box-shadow: 3px 3px 4px grey;*/
+}
+
+.divBackDarck{
+    /*margin-top: 20px;*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #d9d9d9;
+    /*border-style: hidden;*/
+    border: 1px solid #cccccc;
+    border-radius: 0 0 10px 10px;
+    /*border-radius: 5px;*/
+    /*box-shadow: 3px 3px 4px grey;*/
+}
+
+.washed{
+    color: #73879C;
+}
+
+.divBackRounded{
+    background: #f2f2f2;
+    border: 1px solid #E6E9ED;
+    border-radius: 10px;
+}
+
+.hover_hand:hover{
+    cursor: pointer;
+}
+
+.login_notify{
+    background: transparent;
+/*    color: #5174ad;*/
+    color: #f96363;
+    border: 1px solid #E6E9ED;
+    /*border: 1px solid #f96363;*/
+    border-radius: 5px;
+}
+
+.image_fit{
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    object-position: center;
+}
+
+#divLoading{
+    position: fixed;
+    right: 10px;
+    top:10px;
+    z-index: 99999;
+}
+
+.menu_heading{
+    text-align:center;
+    color:#556577;;
+    margin: 0 20px;
+    border-bottom: 1px solid #556577;;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    line-height: 10px;
+}
+
+.white_back{
+    background-color: white; 
+}
+
+.dissabled{
+    background-color: white; 
+}
+
+.text_align_right{
+    text-align: right;
+}

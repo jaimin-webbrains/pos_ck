@@ -1,0 +1,625 @@
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_mfd in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 63
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_exp in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 64
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
+[16-Jan-2018 19:16:29 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
+[24-Sep-2020 11:01:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:01:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:01:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:01:43 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 263
+[24-Sep-2020 11:01:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:01:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:03:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:03:13 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 11:04:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:04:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:04:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:04:42 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 11:16:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:16:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:16:53 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 11:18:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:19:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:19:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:19:51 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 11:19:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:19:51 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 11:29:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:29:44 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 11:30:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:48:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:49:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:49:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:49:09 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 11:51:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:52:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:52:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 11:52:33 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 13:11:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:12:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:12:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:13:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:13:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:13:18 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 13:13:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:13:30 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 263
+[24-Sep-2020 13:13:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:14:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:15:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:15:10 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 13:15:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:15:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:16:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:16:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:16:16 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 319
+[24-Sep-2020 13:16:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 13:18:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:07:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:09:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:09:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:09:36 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 14:17:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:18:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:18:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:18:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:18:33 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 14:40:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:40:56 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:140) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[24-Sep-2020 14:49:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:49:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:49:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:49:46 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:49:46 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 14:49:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:49:56 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 263
+[24-Sep-2020 14:50:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:50:16 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 14:50:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:50:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:50:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:50:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:50:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:51:11 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:51:11 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 263
+[24-Sep-2020 14:51:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:51:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 14:55:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 15:08:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 15:08:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 15:08:12 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 15:18:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 15:22:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 16:03:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 16:13:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 16:13:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 16:16:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 16:16:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:43 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 19:50:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:44 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 152
+[24-Sep-2020 19:50:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:53 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 19:50:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 19:50:53 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 209
+[24-Sep-2020 20:00:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 20:20:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 20:21:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:27:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:55:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:55:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:56:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:56:13 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[24-Sep-2020 21:56:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 21:57:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[24-Sep-2020 22:03:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 06:34:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:38:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:39:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:40:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:41:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:42:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:42:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:45:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:46:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:46:54 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 163
+[25-Sep-2020 07:47:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:47:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:31 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 163
+[25-Sep-2020 07:48:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:31 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 163
+[25-Sep-2020 07:48:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:51 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[25-Sep-2020 07:48:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:48:51 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[25-Sep-2020 07:49:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 07:49:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:12:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:12:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:12:43 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 163
+[25-Sep-2020 08:12:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:13:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:13:08 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[25-Sep-2020 08:13:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:13:08 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[25-Sep-2020 08:13:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:13:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:13:33 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 220
+[25-Sep-2020 08:13:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:14:05 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:14:05 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 274
+[25-Sep-2020 08:14:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:14:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:21:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:21:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:21:49 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 330
+[25-Sep-2020 08:22:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:22:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:30:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:30:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:30:35 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 330
+[25-Sep-2020 08:30:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:31:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:34:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:34:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:34:17 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 330
+[25-Sep-2020 08:34:23 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 08:34:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 09:19:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 09:19:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 09:20:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:20:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:29:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:40:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:40:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:40:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:45:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 10:45:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:39:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:39:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:40:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:43:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:43:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:44:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:46:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:46:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:46:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:59:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 21:59:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:03:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:03:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:04:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:05:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:05:06 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[25-Sep-2020 22:05:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:06:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:06:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:06:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:06:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:07:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:07:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:07:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:07:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:07:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:17:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:17:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:17:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:20:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:20:45 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:406) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[25-Sep-2020 22:21:52 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:39 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[25-Sep-2020 22:22:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:22:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:23:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:23:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:23:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:23:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:29:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:29:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:31:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:17 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[25-Sep-2020 22:32:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:32:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:33:11 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:33:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 22:34:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[25-Sep-2020 23:54:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:29:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:29:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:29:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:31:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:34:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:36:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:36:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:36:32 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:38:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:39 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[26-Sep-2020 07:39:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:39 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[26-Sep-2020 07:39:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:39:54 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[26-Sep-2020 07:40:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 07:43:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 08:07:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 08:11:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 12:25:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 12:26:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 12:37:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Sep-2020 12:45:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 20:47:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 20:47:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 20:47:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 20:53:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 20:53:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 21:08:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 21:08:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 21:08:25 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[28-Sep-2020 22:11:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:11:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:11:47 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[28-Sep-2020 22:11:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:12:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:13:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:16:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:16:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:16:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:16:49 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[28-Sep-2020 22:16:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:16:50 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 164
+[28-Sep-2020 22:16:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:17:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:18:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:18:52 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:19:11 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Sep-2020 22:19:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:48:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:48:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:48:19 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[29-Sep-2020 12:49:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:49:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:49:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 12:49:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:25 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[29-Sep-2020 14:46:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:46:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:47:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:47:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:47:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:47:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:47:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:50:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 14:51:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 15:23:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 15:24:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 15:24:08 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[29-Sep-2020 15:24:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 15:24:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 16:34:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 17:16:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 17:16:24 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[29-Sep-2020 17:16:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 17:16:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 17:16:40 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[29-Sep-2020 17:18:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:00:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:01:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:01:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:01:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:01:45 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[30-Sep-2020 07:01:45 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[30-Sep-2020 07:02:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:02:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:02:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:02:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:03:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:03:11 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:42:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 07:42:52 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:08:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:08:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:08:32 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:08:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:46 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:11:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:12:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 08:12:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 11:16:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[30-Sep-2020 11:16:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 04:28:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 04:28:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:07 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[01-Oct-2020 10:02:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:32 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:02:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:31 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[01-Oct-2020 10:03:40 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:03:50 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 181
+[01-Oct-2020 10:03:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 10:04:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 11:29:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 11:29:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Oct-2020 11:32:23 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:52 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:35:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:36:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:36:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:36:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:36:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Oct-2020 12:37:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:46:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:46:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:46:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:46:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:47:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:47:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:47:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Oct-2020 10:47:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:55:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:55:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:56:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:56:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:57:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 14:58:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:45:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:45:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:46:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:46:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:46:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:46:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 18:46:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:25:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:25:46 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:27:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:27:41 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[09-Dec-2020 19:27:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:27:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:28:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:28:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:28:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:28:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:28:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:29:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:29:18 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[09-Dec-2020 19:30:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:30:47 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[09-Dec-2020 19:31:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:31:21 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[09-Dec-2020 19:31:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:31:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:31:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:31:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:32:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:32:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:32:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:41:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:41:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:41:51 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[09-Dec-2020 19:42:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:42:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:42:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:43:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:43:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[09-Dec-2020 19:43:37 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[09-Dec-2020 20:11:05 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:28:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:29:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:29:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:29:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:29:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 19:30:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:24:31 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:24:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:24:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:06 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[10-Dec-2020 20:25:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[10-Dec-2020 20:25:44 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[10-Dec-2020 20:25:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:28:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:28:29 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:28:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:28:51 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:28:51 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[11-Dec-2020 10:55:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:55:42 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:55:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 10:55:50 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[11-Dec-2020 10:59:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 11:00:01 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 11:00:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 11:00:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 11:00:23 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[11-Dec-2020 11:00:23 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[12-Dec-2020 12:04:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:04:14 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:04:14 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[12-Dec-2020 12:04:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:04:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:04:27 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[12-Dec-2020 12:05:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:05:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:50:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:50:32 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:50:32 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[12-Dec-2020 12:50:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:50:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:50:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:51:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:51:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 12:51:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:16:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:16:21 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[12-Dec-2020 14:16:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:16:27 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 468
+[12-Dec-2020 14:16:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:16:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:16:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:17:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[12-Dec-2020 14:17:26 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[19-Dec-2020 09:51:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[19-Dec-2020 09:54:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[19-Dec-2020 10:04:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[20-Dec-2020 19:01:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[20-Dec-2020 19:01:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[20-Dec-2020 19:01:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Dec-2020 07:36:59 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[14-Jan-2021 23:05:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[14-Jan-2021 23:05:44 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 469
+[14-Jan-2021 23:05:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[21-Jan-2021 13:21:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[21-Jan-2021 13:21:58 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 469
+[21-Jan-2021 13:22:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[26-Jan-2021 19:09:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 12:33:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 12:33:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:18 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:18 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 469
+[28-Jan-2021 18:34:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:32 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:47 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:34:53 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 469
+[28-Jan-2021 18:35:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:35 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:35:58 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[28-Jan-2021 18:36:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:36:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[28-Jan-2021 18:36:30 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php:192) in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 6
+[28-Jan-2021 18:38:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:07:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:26:52 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:27:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:27:46 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:34:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:34:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:34:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:59:23 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:59:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 10:59:39 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 479
+[01-Feb-2021 12:04:03 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 12:05:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 12:05:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 12:05:10 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 479
+[01-Feb-2021 12:05:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 12:05:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 13:05:05 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 13:05:11 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 13:05:11 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 479
+[01-Feb-2021 13:05:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 13:05:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:26:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:27:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:27:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:27:43 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:27:49 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 14:27:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:23 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:30 Asia/Colombo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/l99thpjs/Websys/ktc/pos/production/proccess/invoice_process.php on line 488
+[01-Feb-2021 23:13:36 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:13:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:14:04 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:39:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:41:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:47:09 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:47:19 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:47:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:47:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:47:53 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:49:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:50:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:50:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:50:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:50:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:51:00 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[01-Feb-2021 23:51:17 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 00:07:08 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 00:07:15 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 00:07:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:56:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:57:21 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:57:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:57:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:57:45 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:58:33 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:58:54 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:59:22 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:59:39 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:59:46 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 07:59:58 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:00:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:00:56 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:01:12 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:01:20 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:01:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 08:10:16 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 10:54:30 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 10:56:25 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:40:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:40:57 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:41:06 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:41:44 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:41:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:59:13 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 11:59:27 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:00:05 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:00:07 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:44:34 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:44:41 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:44:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:45:28 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:45:37 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:45:50 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[02-Feb-2021 12:49:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229

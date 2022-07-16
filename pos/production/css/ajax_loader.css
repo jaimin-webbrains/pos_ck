@@ -1,0 +1,34 @@
+/*.ajax_loader{
+    z-index: 999999;
+    border: 1px solid #4080bf;
+    border-radius: 5px;
+    background-color: white;
+    //box-shadow: 1px 1px 3px 1px #999999 ;    
+    
+    position: fixed;
+    padding: 5px;
+    top: 1px;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 130px;
+    
+    
+}
+*/
+
+
+
+.ajax_loader{
+    z-index: 999999;
+    border: 1px solid #4080bf;
+    border-radius: 5px;
+    background-color: white;
+    
+    position: fixed;
+    padding: 5px;
+    top: 20px;
+    right: 20px;
+    width: 130px;
+}
