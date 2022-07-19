@@ -290,13 +290,13 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
               if(Functions::check_privilege_by_module_action("Daily Overall Sales Report","view")){
                 echo '<li><a href="daily_overall_sales.php">Daily Overall Sales Report</a></li>';
               }
+              if(Functions::check_privilege_by_module_action("InvoiceDeletedReport","view")){
+                echo '<li><a href="invoice_deleted.php">Invoice Deleted Report</a></li>';
+              }
+              if(Functions::check_privilege_by_module_action("InvoicePaymentReport","view")){
+                echo '<li><a href="invoice_payment.php">Invoice Payment Report</a></li>';
+              }
               ?>
-              <li>
-                <a href="invoice_deleted.php">Invoice Deleted Report</a>
-              </li>
-              <li>
-                <a href="invoice_payment.php">Invoice Payment Report</a>
-              </li>
             </ul>
           </li>
 
@@ -353,8 +353,12 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
               <i class="fa fa-users" aria-hidden="true"></i>Customer Report <span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
                 <?php
-                  echo '<li><a href="cancelled_bill_report.php">Cancelled Bill Report </a></li>';
-                  echo '<li><a href="customer_total_spend_report.php">Customer Total Spend Report </a></li>';
+                if(Functions::check_privilege_by_module_action("CancelledBillReport", "view")) {
+                  echo '<li><a href="cancelled_bill_report.php">Cancelled Bill Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("CustomerTotalSpendReport", "view")) {
+                  echo '<li><a href="customer_total_spend_report.php">Customer Total Spend Report</a></li>';
+                }
                 ?>
               </ul>
           </li>
@@ -364,20 +368,39 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
               <i class="fa fa-users" aria-hidden="true"></i>Warehouse Report <span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
                 <?php
-
-                // echo '<li><a href="overview_report.php">Overview Report</a></li>';
-                // echo '<li><a href="overview_report_branch.php">Overview Report Branch</a></li>';
-                // echo '<li><a href="stock_in.php">Stock In Product Sales </a></li>';
-                // echo '<li><a href="stock_in_product_used.php">Stock In Product Used </a></li>';
-                echo '<li><a href="warehouse_overview_report.php">Warehouse Overview </a></li>';
-
-                echo '<li><a href="stock_write_off_report.php">Stock Write Off Report </a></li>';
-                echo '<li><a href="stock_rotate_report.php">Stock Rotate Report </a></li>';
-                echo '<li><a href="stock_transfer_report.php">Stock Transfer Report </a></li>';
-
-                echo '<li><a href="branch_product_sales_report.php">Branch Product Sales Report </a></li>';
-                echo '<li><a href="branch_product_used_report.php">Branch Product Used Report </a></li>';
-                echo '<li><a href="colour_product_used_report.php">Colour Product Used Report </a></li>';
+                if(Functions::check_privilege_by_module_action("OverviewReport", "view")) {
+                  echo '<li><a href="overview_report_branch.php">Overview Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("OverviewReportBranch", "view")) {
+                  echo '<li><a href="overview_report_branch.php">Overview Report Branch</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("StockInProductSales", "view")) {
+                  echo '<li><a href="stock_in.php">Stock In Product Sales</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("StockInProductUsed", "view")) {
+                  echo '<li><a href="stock_in_product_used.php">Stock In Product Used</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("WarehouseOverview", "view")) {
+                  echo '<li><a href="stock_transfer.php">Warehouse Overview</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("StockWriteOffReport", "view")) {
+                  echo '<li><a href="stock_write_off_report.php">Stock Write Off Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("StockRotateReport", "view")) {
+                  echo '<li><a href="stock_rotate_report.php">Stock Rotate Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("StockTransferReport", "view")) {
+                  echo '<li><a href="stock_transfer_report.php">Stock Transfer Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("ProductSalesReport", "view")) {
+                  echo '<li><a href="branch_product_sales_report.php">Product Sales Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("BranchProductUsedReport", "view")) {
+                  echo '<li><a href="branch_product_used_report.php">Branch Product Used Report</a></li>';
+                }
+                if(Functions::check_privilege_by_module_action("ColourProductUsedReport", "view")) {
+                  echo '<li><a href="colour_product_used_report.php">Colour Product Used Report</a></li>';
+                }
                 ?>
               </ul>
           </li>
@@ -385,22 +408,22 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
           <li><a><i class="fa fa-list" aria-hidden="true"></i>Accounts<span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
                 <?php
-                // if(Functions::check_privilege_by_module_action("Daily Overall Sales Report","view")){
+                if(Functions::check_privilege_by_module_action("InvoiceReport","view")){
                   echo '<li><a href="daily_summary.php">Invoice Report</a></li>';
-                // }
+                }
                 ?>
               </ul>
           </li>
 
-          <li>
+          <!-- <li>
             <a>
               <i class="fa fa-users" aria-hidden="true"></i>Employee <span class="fa fa-chevron-down"></span></a>
               <ul class="nav child_menu">
                 <?php
-                echo '<li><a href="position.php">Position </a></li>';
+                //echo '<li><a href="position.php">Position </a></li>';
                 ?>
               </ul>
-          </li>
+          </li> -->
 
         </ul>
       </div>

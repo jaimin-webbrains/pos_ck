@@ -1,4 +1,4 @@
-<?php
+  <?php
 require_once './../util/initialize.php';
 include 'common/upper_content.php';
 ?>
@@ -262,20 +262,24 @@ include 'common/upper_content.php';
               <tbody>
                
                 <?php
+                        
                 //report rows
                 $total_amount = 0;
                 if(isset($_POST['search_year']) && !isset($_POST['search_month'])){
+             
                   $branch_id = NULL;
                   if(isset($_POST['branch_id'])){
                     $branch_id = $_POST['branch_id'];
                   }
                   $records = Reports::getCancelledBillRecordsByYear($_POST['search_year'], $branch_id);
+         
                   foreach($records as $record){
                       $total_amount += $record->invoice_total;
                       $invoice_date = explode(' ',$record->invoice_date);
                       $customer = Customer::find_by_custname($record->customer_id);
                     //   $user = User::find_name_by_id($record->invoiced_by);
-                      $invoice_sub = InvoiceSub::find_all_invoice_id($record->invoice_id);
+                    $invoice_sub = Reports::find_all_invoice_deleted_items($record->invoice_id);
+                      
                       $services = '';
                       if($invoice_sub){
                         foreach($invoice_sub as $inv){
@@ -300,17 +304,21 @@ include 'common/upper_content.php';
                 }
 
                 if(isset($_POST['search_year']) && isset($_POST['search_month'])){
+                  
                   $branch_id = NULL;
                   if(isset($_POST['branch_id'])){
                     $branch_id = $_POST['branch_id'];
                   }
                   $records = Reports::getCancelledBillRecordsByMonthYear($_POST['search_month'],$_POST['search_year'], $branch_id);
+            
                   foreach($records as $record){
+                 
                       $total_amount += $record->invoice_total;
                       $invoice_date = explode(' ',$record->invoice_date);
                       $customer = Customer::find_by_custname($record->customer_id);
                     //   $user = User::find_name_by_id($record->invoiced_by);
-                      $invoice_sub = InvoiceSub::find_all_invoice_id($record->invoice_id);
+                      $invoice_sub = Reports::find_all_invoice_deleted_items($record->invoice_id);
+                   
                       $services = '';
                       if($invoice_sub){
                         foreach($invoice_sub as $inv){
@@ -345,8 +353,7 @@ include 'common/upper_content.php';
                       $customer = Customer::find_by_custname($record->customer_id);
                     //   $user = User::find_name_by_id($record->invoiced_by);
                       
-                      $invoice_sub = InvoiceSub::find_all_invoice_id($record->invoice_id);
-                      $services = '';
+                    $invoice_sub = Reports::find_all_invoice_deleted_items($record->invoice_id);                      $services = '';
                       if($invoice_sub){
                         foreach($invoice_sub as $inv){
                             if($services == ''){

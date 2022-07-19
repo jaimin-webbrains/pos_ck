@@ -692,15 +692,15 @@ foreach ($pro_object as $pro_data) {
   {
   $commission_per1=0;
 }*/
-echo "before type 1 and 2 headcount =";
-echo $commission_pro_per1;
+// echo "before type 1 and 2 headcount =";
+// echo $commission_pro_per1;
 $q1="SELECT * FROM `invoice_sub` WHERE item_type=1 AND item_type=2 AND invoice_id=$calculatoon->invoice_id AND (`ops1_user`='$service_data->id')  ";
 $retv22=mysqli_query($con,$q1);
 if(mysqli_num_rows($retv22)<=0)
 {
   $head_pro_count1=$head_pro_count1+$commission_pro_per1;
-  echo " i am inside here for type 1 and 2";
-  echo  $head_pro_count1;
+  // echo " i am inside here for type 1 and 2";
+  // echo  $head_pro_count1;
 
 }
 // if($calculatoon->ops2 == 1){
@@ -711,7 +711,7 @@ if(mysqli_num_rows($retv22)<=0)
 $head1_pro = $general_head_count;
 }
 if($calculatoon->ops2_user == $service_data->id){
-  echo " i am here for type 1 and 2";
+  // echo " i am here for type 1 and 2";
   $sum1_pro = $sum1_pro + $calculatoon->ops2;
   // $head1_pro = $head1_pro + 0.5;
   $head1_pro = $general_head_count;
@@ -738,7 +738,7 @@ $q1="SELECT * FROM `invoice_sub` WHERE item_type=2 AND invoice_id=$calculatoon->
 $retv22=mysqli_query($con,$q1);
 if(mysqli_num_rows($retv22)<=0)
 {
-  echo " i am here for type 2";
+  // echo " i am here for type 2";
   $head_pro_count1=$head_pro_count1+$commission_pro_per1;
 }
 }
@@ -782,7 +782,7 @@ if($sum1_pro > 0){
     {
       echo "<td colspan='3' style='text-align:center;'>".$sum1_pro." <br/> -- <br/> ". $head_pro_count1." </td>";
       $total_head1 =   $total_head1 +$head_pro_count1;
-      echo " i am here for type 2 and 3";
+      // echo " i am here for type 2 and 3";
 
     }else{
       echo "<td colspan='3' style='text-align:center;'>".$sum1_pro." <br/> -- <br/>  </td>";

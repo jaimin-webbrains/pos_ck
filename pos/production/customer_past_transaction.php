@@ -49,11 +49,15 @@ $con=mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
                 <div>
 					<?php $cust = $_POST['branch_id'];?>
                   <select class="form-control selectpicker" name="branch_id" data-live-search="true">
+                    <option value="">Select Customer</option>
                   <?php
                     foreach(Customer::find_all() as $customer_data){
-                        echo "<option value='".$customer_data->id."'>".$customer_data->full_name." - ".$customer_data->mobile." - ".$customer_data->email."</option>";
+                    ?>
+                      <option value="<?php echo $customer_data->id?>" <?php if($customer_data->id == $_POST['branch_id']) echo "selected"?>><?php echo $customer_data->full_name.'-'.$customer_data->mobile.'-'.$customer_data->email; ?></option>";
+                    <?php
                       }
                   ?>
+                  
                 </select>
                 </div>
               </div>

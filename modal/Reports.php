@@ -1222,6 +1222,13 @@ class Reports extends DatabaseObject{
       $object_array = Invoice::find_by_sql("SELECT * FROM invoice WHERE id='$invoice_id'");
       return $object_array;
     }
+
+    public static function find_all_invoice_deleted_items($value){
+      global $database;
+      $value=$database->escape_value($value);
+      $object_array=DeletedInvoiceItems::find_by_sql("SELECT * FROM deleted_invoices_items WHERE invoice_id = '$value' ");
+      return $object_array;
+    }
 }
 
 ?>
