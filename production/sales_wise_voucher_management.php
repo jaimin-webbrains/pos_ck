@@ -30,6 +30,7 @@ if (!(isset($_POST["id"]) && $role = NewsTicker::find_by_id($_POST["id"]))) {
         <div class="x_panel">
           <div class="x_title">
             <h2 id="title" style="font-weight:700;"> Management</h2>
+            <a href="sales_wise_voucher_management_print.php" style="float:right" target="_blank" class="btn btn-primary">Export Data</a>
             <div class="clearfix"></div>
           </div>
 		  
@@ -56,7 +57,11 @@ if (!(isset($_POST["id"]) && $role = NewsTicker::find_by_id($_POST["id"]))) {
                 $pagination = new Pagination($total_records);
                 $objects = Voucher::find_all_by_limit_offset($pagination->records_per_page, $pagination->offset());
                 foreach ($objects as $data) {
+                  // echo '<pre>';
+                  // print_r($data);
                   ?>
+                  
+                  
                   <tr>
                     <td><?php echo $data->voucher_date; ?></td>
                     <td style="text-align:center;"><?php echo $data->voucher_number; ?></td>
@@ -69,11 +74,22 @@ if (!(isset($_POST["id"]) && $role = NewsTicker::find_by_id($_POST["id"]))) {
                       echo "<td>Voucher For Joined Month</td>";
                     }else if($data->voucher_type == 4){
                       echo "<td>Voucher For Selected Customer</td>";
+                    }else{
+                      echo "<td style='text-align:center;'>-</td>";
                     }
                     ?>
+                    <?php if(!empty($data->voucher_message)){ ?>
                     <td style="text-align:center;"><?php echo $data->voucher_message; ?></td>
+                    <?php }else{ ?>
+                      <td style="text-align:center;"></td>
+                    <?php } ?>
                     <td style="text-align:center;"><?php echo $data->voucher_value; ?></td>
-                    <td style="text-align:center;"><img src='uploads/users/<?php echo $data->voucher_background_image; ?>' style="width:100px;" /></td>
+                    <?php if(!empty($data->voucher_background_image)){ ?>
+                      <td style="text-align:center;"><img src='../production/uploads/users/<?php echo $data->voucher_background_image; ?>' style="width:100px;" /></td>
+                    <?php }else{ ?>
+                      <td style="text-align:center;"></td>
+                    <?php } ?>
+                    
                     <td style="text-align:center;"><?php echo $data->customer_id()->full_name; ?></td>
                     <td style="text-align:center;">
                       <a href="voucher_preview.php?id=<?php echo $data->id; ?>" class="btn btn-xs btn-primary" target="_blank"> VIEW VOUCHER </a>

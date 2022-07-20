@@ -117,32 +117,41 @@ class Invoice extends DatabaseObject{
 //     return $count;
 // }
 
-  public static function get_invoice_by_branch_amount_cash($branch_id){
+  public static function get_invoice_by_branch_amount_cash($branch_id, $from_date, $to_date){
     global $database;
     $invoice_payment_type = 1;
     $branch_id = $database->escape_value($branch_id);
+    $from_date = $database->escape_value($from_date);
+    $to_date = $database->escape_value($to_date);
+
     $invoice_payment_type = $database->escape_value($invoice_payment_type);
-    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
+    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE DATE(invoice_date) BETWEEN '$from_date' AND '$to_date' AND invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
     $count = $object_array[0][0];
     return $count;
   }
 
-  public static function get_invoice_by_branch_amount_e($branch_id){
+  public static function get_invoice_by_branch_amount_e($branch_id, $from_date, $to_date){
     global $database;
     $invoice_payment_type = 2;
     $branch_id = $database->escape_value($branch_id);
+    $from_date = $database->escape_value($from_date);
+    $to_date = $database->escape_value($to_date);
+
     $invoice_payment_type = $database->escape_value($invoice_payment_type);
-    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
+    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE DATE(invoice_date) BETWEEN '$from_date' AND '$to_date' AND invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
     $count = $object_array[0][0];
     return $count;
   }
 
-  public static function get_invoice_by_branch_amount_credit($branch_id){
+  public static function get_invoice_by_branch_amount_credit($branch_id, $from_date, $to_date){
     global $database;
     $invoice_payment_type = 3;
     $branch_id = $database->escape_value($branch_id);
+    $from_date = $database->escape_value($from_date);
+    $to_date = $database->escape_value($to_date);
+
     $invoice_payment_type = $database->escape_value($invoice_payment_type);
-    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
+    $object_array = $database->doQuery("SELECT SUM(invoice_total) as total FROM invoice WHERE DATE(invoice_date) BETWEEN '$from_date' AND '$to_date' AND invoice_branch='$branch_id' AND invoice_payment_type='$invoice_payment_type'");
     $count = $object_array[0][0];
     return $count;
   }

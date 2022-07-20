@@ -270,10 +270,13 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
 					echo $message;
 					if(isset($_GET['type']))
 					{
-						$to = $_SESSION['user']['email'];
+						// $to = $_SESSION['user']['email'];
+						$to = 'mohsinphp03@gmail.com';
+						// echo $to;
+						// die;
 						$subject = "Daily Summary";
 
-						$headers = "From: mohsin@mailinator.com" . "\r\n";
+						$headers = "From: donotreply@apt.com.my" . "\r\n";
 						$headers .= "Reply-To: aptmarketing66@gmail.com" . "\r\n";
 						$headers .= "CC: aptmarketing66@gmail.com" . "\r\n";
 						$headers .= "MIME-Version: 1.0" . "\r\n";
@@ -286,7 +289,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
 							<script>
 								window.onload=function()
 								{
-									alert("Email send Succesfully");
+									alert("Email send succesfully");
 									window.location="index.php";
 								}
 							</script>
@@ -298,7 +301,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
 							<script>
 								window.onload=function()
 								{
-									alert("Email Not Send  from cklim");
+									alert("Email not send from cklim");
 									window.location="index.php";
 								}
 							</script>

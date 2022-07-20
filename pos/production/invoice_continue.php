@@ -45,7 +45,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
         <?php Functions::output_result(); ?>
         <!-- invoice type selector -->
 
-        <div class="col-sm-6"> <a href="invoice_print.php?invoice_id=<?php echo $_GET['invoice_id']; ?>" target="_blank" onclick="Myfunction()" class="btn btn-primary btn-block touch-button b1" role="button"> <i class="fa fa-print" aria-hidden="true" style="font-size:50px;"></i> <br/><br/> PRINT INVOICE</a> </div>
+        <div class="col-sm-6"> <a href="invoice_print.php?invoice_id=<?php echo $_GET['invoice_id']; ?>" _target="_blank" onclick="Myfunction()" class="btn btn-primary btn-block touch-button b1" role="button"> <i class="fa fa-print" aria-hidden="true" style="font-size:50px;"></i> <br/><br/> PRINT INVOICE</a> </div>
         <div class="col-sm-6"> <a href="email_customer.php?invoice_id=<?php echo $_GET['invoice_id']; ?>" target="_blank" onclick="Myfunction2()" class="btn btn-primary btn-block touch-button b1" role="button"> <i class="fa fa-address-card" aria-hidden="true" style="font-size:50px;"></i> <br/><br/> EMAIL AND VIEW</a> </div>
 
         <!-- end of invoice type selector -->

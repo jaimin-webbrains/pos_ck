@@ -38,8 +38,11 @@ class Customer extends DatabaseObject{
     public static function find_all_customer_birthday($value){
         global $database;
         $value=$database->escape_value($value);
-        $object_array=self::find_by_sql("SELECT * FROM ".self::$table_name." WHERE MONTH(dob)= $value ORDER BY full_name ASC  ");
+        $value_min = $value - 01;
+        $object_array=self::find_by_sql("SELECT * FROM ".self::$table_name." WHERE MONTH(dob) BETWEEN '$value_min' AND '$value' ORDER BY full_name ASC  ");
         return $object_array;
+
+        
     }
 
     public static function find_all_customer_joinday($value){

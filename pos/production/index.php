@@ -91,7 +91,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
             <div class="services-single">
               <a href="redemption_check.php">
                 <img src="images/services-icons3.png" class="img-responsive">
-                <h4><span class="d-block">Redemtion</span> Check</h4>
+                <h4><span class="d-block">Redemption</span> Check</h4>
               </a>
             </div>
           </div>

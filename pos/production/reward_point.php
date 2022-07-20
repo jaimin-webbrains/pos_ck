@@ -88,7 +88,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
           <div class="col-sm-12" style="text-align:center;padding-bottom:30px;font-size:20px;">
             - POINTS -
           </div>
-         <p style='color:#e74c3c;'> *MINIMIUM VOUCHER VALUE IS <u>50 POINTS</u> </p>
+         <p style='color:#e74c3c;'> *MINIMIUM VOUCHER VALUE IS <u>1000 POINTS</u> </p>
           <div class="col-sm-12" style="font-size:19px;">
             <?php
 
@@ -111,7 +111,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
 
                 <form action="voucher.php" method="post" target="_blank" enctype="multipart/form-data">
                   <div class="form-group">
-                    <label for="email">Isuue Value ( POINTS ):</label>
+                    <label for="email">Issue Value ( POINTS ):</label>
                     <input type="hidden" name="cusid" value="<?php echo $cusid; ?>" class="form-control" id="email">
 
                     <input type="number" name="value" class="form-control" min="<?php echo  $system_min;?>" max="<?php echo $points; ?>" required>
@@ -126,7 +126,7 @@ $user = User::find_by_id($_SESSION["user"]["id"]);
 
 					<input type="file" name="file1" class="form-control" required>
                   </div>
-                  <button type="submit" class="btn btn-warning btn-lg">- ISSU A VOUCHER -</button>
+                  <button type="submit" class="btn btn-warning btn-lg">- ISSUE A VOUCHER -</button>
                 </form>
 
 
